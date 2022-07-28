@@ -1,0 +1,1 @@
+opa=input("Estudo do Pyinstaller")
